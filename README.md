@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sundharsandy
+- 👋 Hi, I’m @Sundhar
 - 👀 I’m interested in web development and design
 - 🌱 I’m currently learning MERN stack
 
